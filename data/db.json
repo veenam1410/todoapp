@@ -1,0 +1,67 @@
+{
+  "tasks": [
+    {
+      "id": "7d37",
+      "name": "React course",
+      "description": "All net ninja playlists",
+      "deadline": "2025-09-28",
+      "complete": true
+    },
+    {
+      "id": "32e9",
+      "name": "Home",
+      "description": "Holidays plan",
+      "deadline": "Crossed",
+      "complete": false
+    },
+    {
+      "id": "04cc",
+      "name": "Movie",
+      "description": "Mirai",
+      "deadline": "2025-09-24",
+      "complete": true
+    },
+    {
+      "id": "a03d",
+      "name": "Outing",
+      "description": "Forum mall",
+      "deadline": "Crossed",
+      "complete": true
+    },
+    {
+      "id": "c70d",
+      "name": "Anniversery",
+      "description": "Wish mom and dad",
+      "deadline": "2026-05-22",
+      "complete": false
+    },
+    {
+      "id": "a2a7",
+      "name": "Birthday - Anku",
+      "description": "Wish at 12",
+      "deadline": "2025-06-06",
+      "complete": true
+    },
+    {
+      "id": "9bc6",
+      "name": "Bootstrap Course",
+      "description": "Net Ninja youtube channel",
+      "deadline": "2025-09-25",
+      "complete": true
+    },
+    {
+      "id": "f6f5",
+      "name": "Complete react",
+      "description": "NET NINJA YOUTUBE CHANNEL",
+      "deadline": "2025-10-10",
+      "complete": false
+    },
+    {
+      "id": "acd2",
+      "name": "Mphasis",
+      "description": "Drive",
+      "deadline": "2025-10-09",
+      "complete": false
+    }
+  ]
+}
